@@ -1,2 +1,5 @@
 # Home_Price_Prediction
-Using machine learning to predict the price of a house.
+Project covers following 
+- Data cleaning 
+- Feature engineering 
+- Model building and hyper parameter tuning
